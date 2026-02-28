@@ -20,7 +20,7 @@ if (ms) {
 // ===================================
 // Put platform icons in: public/assets/img/platforms/
 const platforms = [
-  { name: "JUWA", icon: "assets/img/platforms/juwa.png", url: "https://juwa777.com/juwa" },
+  { name: "JUWA", icon: "assets/img/platforms/juwa.png", url: "https://dl.juwa777.com/" },
   { name: "CASH FRENZY", icon: "assets/img/platforms/cash-frenzy.png", url: "https://www.cashfrenzy777.com" },
   { name: "VBLINK", icon: "assets/img/platforms/vblink.jpg", url: "https://www.vblink777.club" },
   { name: "JOKER", icon: "assets/img/platforms/joker.jpg", url: "https://www.joker777.win" },
